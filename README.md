@@ -29,7 +29,7 @@ Este repositorio contiene la solución a la prueba técnica realizada como parte
 │── src/
 │ └──  Notebooks/
 │   └── Prueba_Tecnica.ipynb
-│ └──  
+│   └── EDA.ipynb 
 │ └──  requirements.txt
 ├── README.md 
 ```               

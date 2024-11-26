@@ -56,4 +56,4 @@ pip install -r requirements.txt
 
 Si tienes preguntas o comentarios, puedes contactarme a través de:
 
-    Correo: santiagogalvisd@gmail.com
+    santiagogalvisd@gmail.com

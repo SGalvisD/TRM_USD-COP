@@ -6,7 +6,7 @@ Santiago Galvis Duque
 /* 1. Carga de datos */
 
 SELECT *
-FROM data.csv
+FROM Tabla1
 ORDER BY VIGENCIADESDE DESC
 LIMIT 1000; -- Seleccionando solo las primeras 1000 filas
 
